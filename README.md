@@ -26,5 +26,5 @@ seleniumFramework project using Java , maven , TestNG and POM design pattern
 11. See Log in message
 
 
-You must change email data at "TestOne" & "TestTwo" every run.
+## Warning : You must change email data at "TestOne" & "TestTwo" every run.
 
