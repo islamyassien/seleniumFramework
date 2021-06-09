@@ -22,7 +22,7 @@ public class TestTwo {
 	  
 	  rp.setFirstName("islam");
 	  rp.setLastName("yassien");
-	  rp.setEmail("islamyassien60@gmail.com");
+	  rp.setEmail("islamyassien901@gmail.com");
 	  rp.setMobile("01151722172");
 	  rp.setPass("123456test");
 	  rp.setConPass("123456test");
@@ -43,7 +43,7 @@ public class TestTwo {
 		
 	  
 	  LoginPage lip = new LoginPage();
-	  lip.Login("islamyassien60@gmail.com", "123456test");
+	  lip.Login("islamyassien901@gmail.com", "123456test");
 	  
 	  AccountPage acc = new AccountPage();
 	  String linResult = acc.verfiyLinMess();
